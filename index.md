@@ -5,8 +5,9 @@ permalink: /
 
 # DoNotBuy
 
-Legal documents for the **DoNotBuy** iOS app.
+Documents and support for the **DoNotBuy** iOS app.
 
+- [Support]({{ '/support/' | relative_url }})
 - [Privacy Policy]({{ '/privacy/' | relative_url }})
 - [Terms of Service]({{ '/terms/' | relative_url }})
 
